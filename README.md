@@ -1,0 +1,2 @@
+# wc-core
+wechat core
